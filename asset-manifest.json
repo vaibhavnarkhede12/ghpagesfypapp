@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ghpagesfypapp/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/ghpagesfypapp/static/js/main.615cc2e5.chunk.js",
+    "main.js.map": "/ghpagesfypapp/static/js/main.615cc2e5.chunk.js.map",
+    "runtime-main.js": "/ghpagesfypapp/static/js/runtime-main.5af41a81.js",
+    "runtime-main.js.map": "/ghpagesfypapp/static/js/runtime-main.5af41a81.js.map",
+    "static/js/2.1c9c1a60.chunk.js": "/ghpagesfypapp/static/js/2.1c9c1a60.chunk.js",
+    "static/js/2.1c9c1a60.chunk.js.map": "/ghpagesfypapp/static/js/2.1c9c1a60.chunk.js.map",
+    "index.html": "/ghpagesfypapp/index.html",
+    "precache-manifest.dcbdd127beceda60e8374d54f989bb8f.js": "/ghpagesfypapp/precache-manifest.dcbdd127beceda60e8374d54f989bb8f.js",
+    "service-worker.js": "/ghpagesfypapp/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/ghpagesfypapp/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.1c9c1a60.chunk.js.LICENSE.txt": "/ghpagesfypapp/static/js/2.1c9c1a60.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5af41a81.js",
+    "static/js/2.1c9c1a60.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.615cc2e5.chunk.js"
+  ]
+}
